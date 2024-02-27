@@ -5,9 +5,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class FleetieApplicationTests {
-//
-//	@Test
-//	void contextLoads() {
-//	}
+
+	@Test
+	void contextLoads() {
+	}
 
 }
